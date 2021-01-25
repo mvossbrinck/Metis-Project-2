@@ -26,7 +26,7 @@
 &nbsp;
 
 ### File List
-#### [a relative link](NYT Cooking Search Results Scraping.ipynb): Runs and scrapes search results to get recipe URLs
+#### NYT Cooking Search Results Scraping.ipynb: Runs and scrapes search results to get recipe URLs
 #### NYT Cooking Individual Recipe Scraping.ipynb: Scrapes individual recipes and puts it into data file
 #### Wayback Machine Scraping.ipynb: Scrapes first date information from Wayback Machine to use as estimated publish date
 #### Start Date Data Cleaning.ipynb: Cleans Wayback Machine start dates before joining it to recipe data
